@@ -1,0 +1,193 @@
+
+[
+{
+    "nome":"Tarcila do Amaral",
+    "ano_nascimento": 1886,
+    "descricao": "pintora, desenhista, escultora, ilustradora, cronista e tradutora brasileira.",
+    "link": "https://pt.wikipedia.org/wiki/Tarsila_do_Amaral",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Abaporu.jpg"
+},
+{
+    "nome":"Lygia Clark",
+    "ano_nascimento": 1920,
+    "descricao": "pintora e escultora",
+    "link": "https://pt.wikipedia.org/wiki/Lygia_Clark",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c9/Bicho_Lygia_Clark.jpg/200px-Bicho_Lygia_Clark.jpg"
+},
+{
+    "nome":"Candido Portinari",
+    "ano_nascimento": 1903,
+    "descricao": "pintor, desenhista, ilustrador, gravurista e professor brasileiro.",
+    "link": "https://pt.wikipedia.org/wiki/Candido_Portinari",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e3/O_Lavrador_de_Caf%C3%A9.jpg/250px-O_Lavrador_de_Caf%C3%A9.jpg"
+},
+{
+    "nome":"Anita Malfatti",
+    "ano_nascimento": 1889,
+    "descricao": "pintora, desenhista, gravadora, ilustradora e professora brasileira.",
+    "link": "https://pt.wikipedia.org/wiki/Anita_Malfatti",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/A_Boba.jpg/250px-A_Boba.jpg"
+},
+{
+    "nome":"Romero Britto",
+    "ano_nascimento": 1963,
+    "descricao": "pintor, escultor e serígrafo brasileiro.",
+    "link": "https://pt.wikipedia.org/wiki/Romero_Britto",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/The_Hug_by_Romero_Britto.jpg/220px-The_Hug_by_Romero_Britto.jpg"
+},
+{
+    "nome":"Hélio Oiticica",
+    "ano_nascimento": 1937,
+    "descricao": "pintor, escultor, artista plástico e performático de aspirações anarquistas.",
+    "link": "https://pt.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Parangol%C3%A9_P4_Capa_1.jpg/220px-Parangol%C3%A9_P4_Capa_1.jpg"
+},
+{
+    "nome":"Beatriz Milhazes",
+    "ano_nascimento": 1960,
+    "descricao": "pintora, gravadora, ilustradora e professora brasileira.",
+    "link": "https://pt.wikipedia.org/wiki/Beatriz_Milhazes",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/O_Elefante_Azul_-_Beatriz_Milhazes.jpg/250px-O_Elefante_Azul_-_Beatriz_Milhazes.jpg"
+},
+{
+    "nome":"Di Cavalcanti",
+    "ano_nascimento": 1897,
+    "descricao": "pintor, desenhista, ilustrador e caricaturista brasileiro.",
+    "link": "https://pt.wikipedia.org/wiki/Di_Cavalcanti",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Samba_Di_Cavalcanti.jpg/250px-Samba_Di_Cavalcanti.jpg"
+},
+{
+    "nome":"Lygia Pape",
+    "ano_nascimento": 1927,
+    "descricao": "gravadora, escultora, pintora, cineasta e professora brasileira.",
+    "link": "https://pt.wikipedia.org/wiki/Lygia_Pape",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f3/Livro_da_Cria%C3%A7%C3%A3o_-_Lygia_Pape.jpg/250px-Livro_da_Cria%C3%A7%C3%A3o_-_Lygia_Pape.jpg"
+},
+{
+    "nome":"Vik Muniz",
+    "ano_nascimento": 1961,
+    "descricao": "artista plástico brasileiro que trabalha com materiais inusitados como lixo, açúcar e chocolate.",
+    "link": "https://pt.wikipedia.org/wiki/Vik_Muniz",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c0/Marat_Vik_Muniz.jpg/250px-Marat_Vik_Muniz.jpg"
+},
+{
+    "nome":"Adriana Varejão",
+    "ano_nascimento": 1964,
+    "descricao": "pintora, desenhista, escultora e gravadora brasileira.",
+    "link": "https://pt.wikipedia.org/wiki/Adriana_Varej%C3%A3o",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c6/Parede_com_Incisoes_a_la_Fontana.jpg/250px-Parede_com_Incisoes_a_la_Fontana.jpg"
+},
+{
+    "nome":"Os Gêmeos",
+    "ano_nascimento": 1974,
+    "descricao": "dupla de irmãos grafiteiros, pintores e escultores brasileiros, Otavio e Gustavo Pandolfo.",
+    "link": "https://pt.wikipedia.org/wiki/Os_G%C3%AAmeos",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Os_Gemeos_Boston.jpg/250px-Os_Gemeos_Boston.jpg"
+},
+{
+    "nome":"Aleijadinho",
+    "ano_nascimento": 1738,
+    "descricao": "escultor, entalhador, desenhista e arquiteto do Brasil colonial.",
+    "link": "https://pt.wikipedia.org/wiki/Aleijadinho",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Profeta_Daniel_-_Aleijadinho.jpg/250px-Profeta_Daniel_-_Aleijadinho.jpg"
+},
+{
+    "nome":"Iberê Camargo",
+    "ano_nascimento": 1914,
+    "descricao": "pintor, gravurista e professor brasileiro, um dos grandes nomes do expressionismo no país.",
+    "link": "https://pt.wikipedia.org/wiki/Iber%C3%AA_Camargo",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c9/Carret%C3%A9is_de_Iber%C3%AA_Camargo.jpg/250px-Carret%C3%A9is_de_Iber%C3%AA_Camargo.jpg"
+},
+{
+    "nome":"Cildo Meireles",
+    "ano_nascimento": 1948,
+    "descricao": "artista plástico e escultor brasileiro, conhecido por suas instalações e arte conceitual.",
+    "link": "https://pt.wikipedia.org/wiki/Cildo_Meireles",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c3/Desvio_para_o_Vermelho.jpg/250px-Desvio_para_o_Vermelho.jpg"
+},
+{
+    "nome":"Alfredo Volpi",
+    "ano_nascimento": 1896,
+    "descricao": "pintor ítalo-brasileiro, conhecido por suas 'bandeirinhas' e fachadas de casas.",
+    "link": "https://pt.wikipedia.org/wiki/Alfredo_Volpi",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Bandeirinhas_Volpi.jpg/250px-Bandeirinhas_Volpi.jpg"
+},
+{
+    "nome":"Tomie Ohtake",
+    "ano_nascimento": 1913,
+    "descricao": "artista plástica nipo-brasileira, conhecida por suas pinturas, gravuras e esculturas abstratas.",
+    "link": "https://pt.wikipedia.org/wiki/Tomie_Ohtake",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Monumento_Tomie_Ohtake_Santos_2.jpg/250px-Monumento_Tomie_Ohtake_Santos_2.jpg"
+},
+{
+    "nome":"Ernesto Neto",
+    "ano_nascimento": 1964,
+    "descricao": "escultor e artista plástico brasileiro, conhecido por suas instalações imersivas e esculturas biomórficas.",
+    "link": "https://pt.wikipedia.org/wiki/Ernesto_Neto",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ernesto_Neto_Leviathan_Thot_2006.jpg/250px-Ernesto_Neto_Leviathan_Thot_2006.jpg"
+},
+{
+    "nome":"Tunga",
+    "ano_nascimento": 1952,
+    "descricao": "escultor, desenhista e artista performático brasileiro, um dos nomes mais influentes da sua geração.",
+    "link": "https://pt.wikipedia.org/wiki/Tunga",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d2/Tunga_-_A_luz_de_dois_mundos.jpg/250px-Tunga_-_A_luz_de_dois_mundos.jpg"
+},
+{
+    "nome":"Jac Leirner",
+    "ano_nascimento": 1961,
+    "descricao": "artista plástica brasileira, conhecida por suas esculturas e instalações com objetos do cotidiano colecionados.",
+    "link": "https://pt.wikipedia.org/wiki/Jac_Leirner",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Pulm%C3%A3o_Jac_Leirner.jpg/250px-Pulm%C3%A3o_Jac_Leirner.jpg"
+},
+{
+    "nome":"Sandra Cinto",
+    "ano_nascimento": 1968,
+    "descricao": "pintora, desenhista, escultora e instaladora brasileira, famosa por suas paisagens oníricas e detalhadas.",
+    "link": "https://pt.wikipedia.org/wiki/Sandra_Cinto",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c9/Noite_e_Dia_de_Sandra_Cinto.jpg/250px-Noite_e_Dia_de_Sandra_Cinto.jpg"
+},
+{
+    "nome":"Rosângela Rennó",
+    "ano_nascimento": 1962,
+    "descricao": "artista plástica e fotógrafa brasileira que trabalha com a apropriação de imagens de arquivos e coleções.",
+    "link": "https://pt.wikipedia.org/wiki/Ros%C3%A2ngela_Renn%C3%B3",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d3/Rosangela_Renno_Imemorial.jpg/250px-Rosangela_Renno_Imemorial.jpg"
+},
+{
+    "nome":"Jonathas de Andrade",
+    "ano_nascimento": 1982,
+    "descricao": "artista que utiliza fotografia, instalação e vídeo para explorar temas sociais e culturais do Nordeste brasileiro.",
+    "link": "https://pt.wikipedia.org/wiki/Jonathas_de_Andrade",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e3/O_Peixe_Jonathas_de_Andrade.jpg/250px-O_Peixe_Jonathas_de_Andrade.jpg"
+},
+{
+    "nome":"Sonia Gomes",
+    "ano_nascimento": 1948,
+    "descricao": "artista plástica brasileira, conhecida por suas esculturas abstratas feitas de tecidos, fios e outros materiais.",
+    "link": "https://pt.wikipedia.org/wiki/Sonia_Gomes",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Sonia_Gomes_obra.jpg/250px-Sonia_Gomes_obra.jpg"
+},
+{
+    "nome":"Maxwell Alexandre",
+    "ano_nascimento": 1990,
+    "descricao": "artista visual carioca, conhecido por suas pinturas de grande escala que retratam o cotidiano de comunidades negras.",
+    "link": "https://pt.wikipedia.org/wiki/Maxwell_Alexandre",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e3/Pardo_%C3%A9_Papel_Maxwell_Alexandre.jpg/250px-Pardo_%C3%A9_Papel_Maxwell_Alexandre.jpg"
+},
+{
+    "nome":"Jaider Esbell",
+    "ano_nascimento": 1979,
+    "descricao": "artista, curador, escritor e ativista indígena do povo Macuxi, figura central na arte indígena contemporânea.",
+    "link": "https://pt.wikipedia.org/wiki/Jaider_Esbell",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c9/Entidades_Jaider_Esbell.jpg/250px-Entidades_Jaider_Esbell.jpg"
+},
+{
+    "nome":"Denilson Baniwa",
+    "ano_nascimento": 1984,
+    "descricao": "artista visual e comunicador indígena do povo Baniwa, que utiliza a arte para discutir questões de identidade e direitos indígenas.",
+    "link": "https://pt.wikipedia.org/wiki/Denilson_Baniwa",
+    "obra_famosa_img": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d3/Pajelana_Jaguar_Denilson_Baniwa.jpg/250px-Pajelana_Jaguar_Denilson_Baniwa.jpg"
+}
+
+]
